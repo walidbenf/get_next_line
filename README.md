@@ -1,7 +1,7 @@
 # get_next_line
 ## Reading a line from a fd is way too tedious
 
-![](image.png)
+![](images.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
