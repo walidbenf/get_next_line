@@ -1,6 +1,10 @@
 # get_next_line
 ## Reading a line from a fd is way too tedious
 
+## Summary:
+This project is about programming a function that returns a line
+read from a file descriptor.
+
 ![](notes.png)
 
 ![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
