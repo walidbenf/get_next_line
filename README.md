@@ -3,7 +3,7 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-success?style=flat-square&logo=appveyor)
 
-![](https://img.shields.io/badge/note-100%2F100-success?style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/note-115%2F100-success?style=flat-square&logo=appveyor)
 
 
 ## Summary:
