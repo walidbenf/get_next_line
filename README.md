@@ -41,7 +41,7 @@ useful during your defence. Indeed, during defence, you are free to use your tes
 and/or the tests of the peer you are evaluating.
 - Submit your work to your assigned git repository. Only the work in the git repository will be graded. If Deepthought is assigned to grade your work, it will be done
 
-# Mandatory part
+## Mandatory part
 
 |Program name|libftprintf.a|
 | ------ | ------ |
@@ -85,7 +85,7 @@ you want to.
 - lseek() is forbidden.
 - Global variables are forbidden.
 
-# Bonus part
+## Bonus part
 ###### You don’t have to do all the bonuses.
 This project is straightforward and doesn’t allow complex bonuses. However, we trust
 your creativity. If you completed the mandatory part, give a try to this bonus part.
