@@ -3,7 +3,8 @@
 
 ![](notes.png)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
+
 
 ## Introduction
 
@@ -117,5 +118,8 @@ get_next_line requires gcc or any other c compiler
 gcc -Wall -Wextra -Werror -D BUFFER_SIZE= <BUFFER_SIZE> <files>.c
 ./a.out
 ```
+
+## Important 
+This project was made on Mac OS you may encounter problems on other OS.
 
 
