@@ -114,7 +114,7 @@ gcc -Wall -Wextra -Werror -D BUFFER_SIZE= <BUFFER_SIZE> <files>.c
 ```
 
 ## Important 
-This project was made on MacOS you may encounter problems on other OS.\
+This project was made on macOS you may encounter problems on other OS.\
 This is the new subject, I did it a few years ago, it may not be exactly the same.
 
 
