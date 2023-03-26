@@ -1,10 +1,10 @@
 # get_next_line
 ### Reading a line from a fd is way too tedious
 
+![Build Status]([https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master](https://img.shields.io/badge/build-passing-success?style=flat-square&logo=appveyor))
 
 ![](https://img.shields.io/badge/note-100%2F100-success?style=flat-square&logo=appveyor)
 
-![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
 
 ## Summary:
 This project is about programming a function that returns a line
