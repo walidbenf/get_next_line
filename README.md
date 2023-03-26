@@ -2,7 +2,7 @@
 ### Reading a line from a fd is way too tedious
 
 
-![](notes.png)
+![](https://img.shields.io/badge/note-100%2F100-success?style=flat-square&logo=appveyor)
 
 ![Build Status](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
 
